@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Times New Roman, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
 }
 .header {
-    background-color: #333;
+    background-color: #008080;
     color: #008080;
     padding: 10px;
     text-align: center;
@@ -23,15 +23,15 @@ body {
     text-decoration: none;
 }
 .nav a:hover {
-    background-color: #ddd;
+    background-color: #0000FF;
     color: black;
 }
 .main {
     margin: 15px;
 }
 .footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #0000FF;
+    color: #0000FF;
     text-align: center;
     padding: 10px;
     position: fixed;
