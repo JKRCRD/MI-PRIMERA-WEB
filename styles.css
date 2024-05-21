@@ -2,16 +2,16 @@ body {
     font-family: Times New Roman, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #fff;
 }
 .header {
-    background-color: #008080;
+    background-color: #ddd;
     color: #008080;
     padding: 10px;
     text-align: center;
 }
 .nav {
-    background-color: #0000FF;
+    background-color: #eee;
     overflow: hidden;
 }
 .nav a {
@@ -23,14 +23,14 @@ body {
     text-decoration: none;
 }
 .nav a:hover {
-    background-color: #0000FF;
+    background-color: #fff;
     color: black;
 }
 .main {
     margin: 15px;
 }
 .footer {
-    background-color: #0000FF;
+    background-color: #333;
     color: #0000FF;
     text-align: center;
     padding: 10px;
