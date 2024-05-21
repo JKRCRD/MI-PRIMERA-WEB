@@ -6,12 +6,12 @@ body {
 }
 .header {
     background-color: #333;
-    color: #fff;
+    color: #008080;
     padding: 10px;
     text-align: center;
 }
 .nav {
-    background-color: #ddd;
+    background-color: #0000FF;
     overflow: hidden;
 }
 .nav a {
